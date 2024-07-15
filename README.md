@@ -1,8 +1,14 @@
-# React + Vite
+# Cosmic Chat (a Gemini_Clone)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+Cosmic Chat is a responsive AI chatbot built using HTML, CSS, and React.js. Designed for seamless interaction across all devices, Cosmic Chat offers vast knowledge and insightful responses, making it the perfect digital assistant for a wide range of inquiries.
 
-Currently, two official plugins are available:
+## Features
+- **Responsive Design:** Adapts to any screen size for a consistent user experience on desktops, tablets, and mobile devices.
+- **Interactive Chatbot:** Provides insightful and far-reaching responses.
+- **Modern Web Technologies:** Built with HTML, CSS, and React.js for a fast and smooth user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **HTML5:** For structuring the content.
+- **CSS3:** For styling and responsive design.
+- **React.js:** For building dynamic and interactive user interfaces.
